@@ -30,7 +30,7 @@ id_for_reviews = "montis-chicago"
 
 reviews_result = yelp_api.reviews_query(id=id_for_reviews)
 
-# print(reviews_result)
+print(reviews_result)
 
 # for review in reviews_result['reviews']:
 #     print(review)
