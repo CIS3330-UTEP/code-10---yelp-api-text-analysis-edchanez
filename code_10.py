@@ -1,7 +1,6 @@
 import nltk
 import pandas as pd
 from yelpapi import YelpAPI
-from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
